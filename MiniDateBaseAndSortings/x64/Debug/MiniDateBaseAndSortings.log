@@ -1,0 +1,5 @@
+﻿  MiniDateBaseAndSortings.cpp
+D:\Projects\C++\MiniDateBaseAndSortings\MiniDateBaseAndSortings\MiniDateBaseAndSortings.cpp(255,15): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Projects\C++\MiniDateBaseAndSortings\MiniDateBaseAndSortings\MiniDateBaseAndSortings.cpp(298,18): warning C4101: discount: неиспользованная локальная переменная
+D:\Projects\C++\MiniDateBaseAndSortings\MiniDateBaseAndSortings\MiniDateBaseAndSortings.cpp(298,11): warning C4101: price: неиспользованная локальная переменная
+  MiniDateBaseAndSortings.vcxproj -> D:\Projects\C++\MiniDateBaseAndSortings\x64\Debug\MiniDateBaseAndSortings.exe
